@@ -1,4 +1,4 @@
-# screenmedR <img src='man/figures/hex-screenmed.png' align="right" width="120" />
+# screenmedR <img src='man/figures/hex-screenmedR.png' align="right" width="120" />
 
 ## Overview
 
